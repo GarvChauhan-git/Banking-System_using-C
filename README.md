@@ -1,5 +1,5 @@
 Banking System that can perform basic functionality :
-     1) Create NEW ACCOUNT";
+     1) Create NEW ACCOUNT
      2) DISPLAY DETAILS OF AN ACCOUNT
      3) DISPLAY DETAILS OF ALL ACCOUNTS
      4) DEPOSIT
